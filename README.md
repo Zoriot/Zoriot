@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/Zoriot/Zoriot/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Zoriot/Zoriot/blob/main/github-metrics.svg)
